@@ -1,0 +1,15 @@
+﻿{
+  "dependencies": {
+    "Microsoft.AspNet.Server.Kestrel": "1.0.0-rc1-final",
+    "StructureMap.Dnx": "0.4.0-alpha4"
+  },
+
+  "commands": {
+    "web": "Microsoft.AspNet.Server.Kestrel"
+  },
+
+  "frameworks": {
+    "dnx451": { },
+    "dnxcore50": { }
+  }
+}
